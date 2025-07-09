@@ -23,10 +23,10 @@ Ajudar gestores a tomarem decisões baseadas em dados, identificando gargalos de
 ![Dashboard Power BI](./dashboard-captura.png)
 
 ## 📂 Estrutura do Repositório
+- `README.md` → Documento de apresentação do projeto
 - `certificado-minicurso-powerbi-xperiun.pdf` → Certificado de conclusão do curso
 - `dashboard-captura.png` → Imagem ilustrativa do dashboard
 - `dashboard-receita-custo.pbix` → Arquivo do projeto no Power BI
-- `README.md` → Documento de apresentação do projeto
 
 ## 🚀 Insights Possíveis
 - Quais produtos geram maior margem de lucro?
