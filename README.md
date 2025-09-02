@@ -23,6 +23,8 @@ Ajudar gestores a tomarem decisões baseadas em dados, identificando gargalos de
 ![Dashboard Power BI](./dashboard-captura.png)
 
 ## 📂 Estrutura do Repositório
+- `BaseVendasCompleta.xlsx` → Base de dados vendas no Excel
+- `CadastroProdutos.xlsx` → Base de dados produtos no Excel
 - `README.md` → Documento de apresentação do projeto
 - `certificado-minicurso-powerbi-xperiun.pdf` → Certificado de conclusão do curso
 - `dashboard-captura.png` → Imagem ilustrativa do dashboard
